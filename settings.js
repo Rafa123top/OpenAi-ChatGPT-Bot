@@ -29,7 +29,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 */
 var SESSION_ID = ''
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = process.env.SESSION_ID || SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID || SESSION_ID QUEENELISA;;;==AMRpHemR3S5VlVlZFd4cGZ0MnT4kFVPVTYzdWb4UFMqRzYiV2RiZ2Y2lEUjMENChHeWpkWpwd=0530199813826
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
